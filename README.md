@@ -1,3 +1,6 @@
+## 对应视频教程
+https://www.bilibili.com/video/BV1UJ411T7w2?p=7&spm_id_from=pageDriver
+
 ## 系统名称 
 仓库管理系统 warehouse 
 ### 系统概要
